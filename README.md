@@ -11,6 +11,7 @@ Learning American Sign Language is as difficult for English speakers as learning
 PopSign is a smartphone game app that makes learning American Sign Language fun, interactive, and accessible. Players match videos of ASL signs with bubbles containing written English words to pop them.
 PopSign is designed to help parents with deaf children learn ASL, but it's open to anyone who wants to learn sign language vocabulary. By adding a sign language recognizer from this competition, PopSign players will be able to sign the type of bubble they want to shoot, providing the player with the opportunity to practice the sign themselves instead of just watching videos of other people signing.
 
+# Model
 
-
+![image](https://github.com/Atharva-Pandkar/Google-Isolated-Sign-Language-Recognition/assets/62322017/acb2b9bc-54d6-4491-ae3d-330a96e3abe7)
 
